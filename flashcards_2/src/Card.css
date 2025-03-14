@@ -51,3 +51,11 @@
 .card-back {
     transform: rotateX(180deg);
 }
+
+.button.submit.correct {
+    background-color: rgb(104, 192, 94);
+}
+
+.button.submit.incorrect {
+    background-color: rgb(219, 93, 93);
+}
